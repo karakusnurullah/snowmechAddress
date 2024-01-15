@@ -1,0 +1,94 @@
+{
+  "cities": [
+    {
+      "city": "İst. Anadolu",
+      "adress": "İstasyon Mah. Araplar Cad. No:6 Tuzla / İstanbul",
+      "tel1": "0216 446 64 64",
+      "tel2": "0216 395 13 40",
+      "email": "info@enka.com.tr",
+      "lat": "40.834469",
+      "long": "29.322040",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-34(1).jpeg",
+    },
+    {
+      "city": "İst. Avrupa",
+      "adress": "Bağcılar Güngören Sanayi Sitesi Metro AVM B Blok K:2 No: 42 İkitelli / İstanbul",
+      "tel1": "0212 549 53 52",
+      "tel2": "0212 549 53 10",
+      "email": "info@enka.com.tr",
+      "lat": "41.077144",
+      "long": "28.803832",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-34-1.jpeg"
+    },
+    {
+      "city": "Ankara",
+      "adress": "Çamlica Mah. 145 Sok. No:9 Gimat Yenimahalle / Ankara",
+      "tel1": "0312 387 40 00",
+      "tel2": "0312 387 42 42",
+      "email": "info@enka.com.tr",
+      "lat": "39.95969",
+      "long": "32.775917",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-06.jpeg"
+    },
+    {
+      "city": "İzmir",
+      "adress": "Ankara Asfalti No:255 35170 Kemalpaşa / İzmir",
+      "tel1": "0232 877 18 19",
+      "tel2": "0232 877 13 32",
+      "email": "info@enka.com.tr",
+      "lat": "38.46244",
+      "long": "27.336369",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-35.jpeg"
+    },
+    {
+      "city": "Adana",
+      "adress": "Turhan Cemal Beriker Bulvarı Büyük Dikili Mah. No: 740 P.K. 01420 - Seyhan / Adana",
+      "tel1": "0533 626 31 96",
+      "tel2": "0533 626 31 97",
+      "email": "info@enka.com.tr",
+      "lat": "36.99202",
+      "long": "35.175776",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-01.jpeg"
+    },
+    {
+      "city": "Diyarbakır",
+      "adress": "Barış Mah. Urfa Bulvarı No:224/2 İç Kapı No:1 Kayapınar/Diyarbakır",
+      "tel1": "0412 251 66 68",
+      "tel2": "0412 251 66 70",
+      "email": "info@enka.com.tr",
+      "lat": "37.912416",
+      "long": "40.090374",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-21.jpeg"
+    },
+    {
+      "city": "Trabzon",
+      "adress": "Anadolu Caddesi No:242 Deliklitas Mevkii / Trabzon",
+      "tel1": "0462 325 77 44",
+      "tel2": "0462 325 77 91",
+      "email": "info@enka.com.tr",
+      "lat": "40.98014",
+      "long": "39.7485",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-61.jpeg"
+    },
+    {
+      "city": "Antalya",
+      "adress": "Yeşilbayır Mah. Akdeniz Bul. No:157 Döşemealtı/ANTALYA",
+      "tel1": "0530 171 45 13",
+      "tel2": "0242 443 10 00",
+      "email": "info@enka.com.tr",
+      "lat": "36.988528",
+      "long": "30.626833",
+      "url": "https://www.enka.com.tr/u/i/provinces/iller-07.jpeg"
+    },
+    {
+      "city": "Bursa",
+      "adress": "Alaaddinbey Mahallesi İzmir Yolu Cad. No: 327 Savana Life Blok J Nilüfer / Bursa",
+      "tel1": "0224 220 36 52",
+      "tel2": "0000 000 00 00",
+      "email": "info@enka.com.tr",
+      "lat": "40.213191306",
+      "long": "28.91337739",
+      "url": "https://www.enka.com.tr/u/i/bursa-img(1).jpg"
+    }
+  ]
+}
